@@ -3,8 +3,9 @@
 ### Course Instructor: Dr Pratik Chattopadhyay
 This contains the source code and data for the CSE464 Assignment - Semester 6 IIT (BHU)
 
-Dataset: Diabetic Retinopathy Debrecen Data Set
-Source: UCI ML Repository
+**Dataset:** Diabetic Retinopathy Debrecen Data Set
+
+**Source:** UCI ML Repository
 
 **About the Dataset:**
 This dataset contains features extracted from the Messidor image set to predict whether an image contains signs of diabetic retinopathy or not. All features represent either a detected lesion, a descriptive feature of an anatomical part or an image-level descriptor.
